@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: #dee6ee;
     background-attachment: fixed;
 }
 
@@ -19,8 +20,8 @@ body {
     margin: 10px;
 }
 
-.nav .img {
-    height: 20px;
+.nav img {
+    height: 70px;
 }
 
 
@@ -51,7 +52,7 @@ body {
 
 .text .title {
     font-size: 50px;
-    color: #fff;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-weight: 700;
     text-transform: uppercase;
@@ -69,7 +70,7 @@ body {
 
 .sub {
     font-size: 40px;
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-weight: 400;
     letter-spacing: 2px;
@@ -113,9 +114,9 @@ ul li {
 }
 
 ul li a {
+    color: black;
     text-decoration: none;
     font-size: 20px;
-    color: #fff;
     text-align: center;
     font-weight: 400;
     letter-spacing: 2px;
