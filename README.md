@@ -6,8 +6,8 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/H-Maurya/Hacktoberfest-x-DetectiveConan)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/H-Maurya" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href="https://github.com/H-Maurya/Hacktoberfest-x-DetectiveConan/pulls"><img src="https://img.shields.io/github/issues-pr/H-Maurya/Hacktoberfest-x-DetectiveConan" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/mShashank2308" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
+<a href="https://github.comm/Shashank2308/hacktoberfest/pulls"><img src="https://img.shields.io/github/issues-pr/Shashank2308/hacktoberfest" alt="Pull Requests Badge"/></a>
   
 </div>
 
@@ -25,8 +25,8 @@ Hacktoberfest, in its 9th year, is a month-long celebration of open source softw
 <br>
 
 
-# Detective-Conan
-<img width="2295"  height="504" alt="series image" src="https://github.com/H-Maurya/Hacktoberfest-x-DetectiveConan/blob/main/img.jpg">
+# Demon Slayer
+<img width="2295"  height="504" alt="series image" src="https://github.com/mShashank2308/hacktoberfest/edit/main/img.jpg">
 
 There is no doubt that most  of our childhood was spent watching anime, we have seen and experienced it all. With Hacktoberfest 2022 coming up and being one of the people who would participate for the very first time(as maintainer), I decided to create this repository that's actually a very basic web-page that lets the user view and add their favourite characters.
 
@@ -36,8 +36,6 @@ You can find all types characters on https://detectiveconan.fandom.com/wiki/Cate
 
 1. index.html - Contains the content of the main/home page.
 2. style.css -  Contains the styling given to the home page.
-3. about.html - Contains a little information about me.
-4. style2.css - Some styling for the about page.
 
 # What can you contribute?
 
