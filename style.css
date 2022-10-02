@@ -10,7 +10,6 @@ body {
     font-family: 'Poppins', sans-serif;
     background: url(images/bg.jpg);
     background-attachment: fixed;
-    filter: brightness(20%);
 }
 
 .nav {
@@ -30,6 +29,7 @@ body {
     margin-top: 10px;
     background: url(images/fg.jpg) no-repeat center center/cover;
     height: 100%;
+    filter: brightness(50%);
 }
 
 .text {
