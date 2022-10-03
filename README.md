@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/mShashank2308" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href="https://github.comm/mShashank2308/hacktoberfest/pulls"><img src="https://img.shields.io/github/issues-pr/Shashank2308/hacktoberfest" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/mShashank2308/hacktoberfest/pulls"><img src="https://img.shields.io/github/issues-pr/mShashank2308/hacktoberfest" alt="Pull Requests Badge"/></a>
   
 </div>
 
@@ -26,11 +26,11 @@ Hacktoberfest, in its 9th year, is a month-long celebration of open source softw
 
 
 # Demon Slayer
-<img width="2295"  height="504" alt="series image" src="https://github.com/mShashank2308/hacktoberfest/edit/main/img.jpg">
+<img width="2295"  height="504" alt="series image" src="https://github.com/mShashank2308/hacktoberfest/blob/main/img.jpg">
 
 There is no doubt that most  of our childhood was spent watching anime, we have seen and experienced it all. With Hacktoberfest 2022 coming up and being one of the people who would participate for the very first time(as maintainer), I decided to create this repository that's actually a very basic web-page that lets the user view and add their favourite characters.
 
-You can find all types characters on https://detectiveconan.fandom.com/wiki/Category:Characters and on https://www.detectiveconanworld.com/wiki/Characters
+You can find all types characters on https://kimetsu-no-yaiba.fandom.com/wiki/Characters
 
 # Contents of the Webpage
 
