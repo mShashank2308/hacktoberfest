@@ -117,6 +117,7 @@ ul li {
     display: inline-block;
     margin: 0 20px;
     position: relative;
+    text-decoration: underline;
 }
 
 ul li a {
@@ -126,4 +127,30 @@ ul li a {
     text-align: center;
     font-weight: 400;
     letter-spacing: 2px;
+}
+
+.container {
+    margin: 15px;
+    padding:10px;
+}
+
+.class1 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 10px;
+}
+
+.class2 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 10px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+img {
+    border-radius: 15px;
 }
