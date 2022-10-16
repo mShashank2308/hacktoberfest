@@ -1,15 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script src=
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js">
+        </script>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Demon Slayer</title>
+    <style>
+     
+      h1{
+      color: #32a852;
+      }
+      .mode {
+          float:right;
+      }
+      .change {
+          cursor: pointer;
+          border: 1px solid #555;
+          border-radius: 40%;
+          width: 20px;
+          text-align: center;
+          padding: 5px;
+          margin-left: 8px;
+      }
+      .dark{
+          background-color: #222;
+          color: #e6e6e6;
+      }
+  </style>
+    <title color="red">Demon Slayer</title>
     <link rel="stylesheet" href="style.css" />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"
     />
+    
   </head>
   <body>
     <header>
@@ -19,15 +45,16 @@
           <div class="right">
             <ul>
               <li>
-                <i class="bi bi-house-door-fill" style="font-size: 25px"></i
-                ><a href="index.html">Home</a>
-              </li>
-              <li>
-                <i class="bi bi-file-person" style="font-size: 25px"></i
-                >&nbsp;<a href="about.html">About Demon Slayer</a>
+                <li><i class="bi bi-house-door-fill" style="font-size: 25px;color:red"></i>&nbsp;<a href="index.html"style="color:red" >Home</a></li>
+                <li><i class="bi bi-file-person" style="font-size: 25px; color:red"></i>&nbsp;<a href="about.html" style="color:red">About Demon Slayer</a></li>
+                <div class="mode">
+                  Dark mode:            
+                  <span class="change">OFF</span>
               </li>
             </ul>
           </div>
+          
+        </div>
         </div>
       </div>
     </header>
@@ -111,5 +138,16 @@
       </ul>
       <br />
     </div>
+    <script>
+      $( ".change" ).on("click", function() {
+          if( $( "body" ).hasClass( "dark" )) {
+              $( "body" ).removeClass( "dark" );
+              $( ".change" ).text( "OFF" );
+          } else {
+              $( "body" ).addClass( "dark" );
+              $( ".change" ).text( "ON" );
+          }
+      });
+  </script>
   </body>
 </html>
