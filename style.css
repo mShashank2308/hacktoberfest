@@ -21,7 +21,7 @@ body {
 }
 
 .nav img {
-  height: 70px;
+  height: 45px;
 }
 
 .header {
@@ -115,11 +115,11 @@ ul li {
   display: inline-block;
   margin: 0 20px;
   position: relative;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 ul li a {
-  color: black;
+  color: #121415;
   text-decoration: none;
   font-size: 20px;
   text-align: center;
@@ -153,11 +153,16 @@ img {
   border-radius: 15px;
 }
 
+.dark ul li a {
+  color: white;
+}
+
 .right li:hover {
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  background-color: rgb(106, 106, 104);
+  color: gray;
+  /* box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); */
+  /* background-color: rgb(106, 106, 104); */
 }
 
 .right li a:hover {
-  color: white;
+  color: gray;
 }
