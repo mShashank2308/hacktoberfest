@@ -57,8 +57,8 @@ Not everyone is aware of every tool present in the world no matter how easy or c
 
                 <!-- [character name] card start-->
                 <div class="card">
-                <div class="img__container">
-                  <img src="images/[name].png" alt="[name]">
+                  <div class="img__container">
+                    <img src="images/[name].png" alt="[name]">
                   </div>
                   <div class="container">
                       <h4><strong>[name]</strong></h4>
