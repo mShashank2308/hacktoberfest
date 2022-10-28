@@ -117,6 +117,7 @@ body {
 .card p {
 	font-size: 20px;
 	margin: 15px 0;
+	color: #fff;
 }
 
 .card .img__container {
